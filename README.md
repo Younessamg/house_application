@@ -34,7 +34,7 @@ Cette application mobile permet de calculer les impôts locaux basés sur la sur
 
 1. Clonez ce dépôt :
     ```bash
-    git clone https://github.com/votre-nom-utilisateur/nom-du-repository.git
+    git clone https://github.com/Younessamg/house_application.git
     ```
 2. Ouvrez le projet dans Android Studio.
 3. Compilez et exécutez l'application sur un émulateur ou un appareil physique.
